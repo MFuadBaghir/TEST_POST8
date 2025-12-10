@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "114067769118",
+    "firebase_url": "https://post8-2300018015-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "post8-2300018015",
+    "storage_bucket": "post8-2300018015.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114067769118:android:83d36abe542e6ebfb8ab0f",
+        "android_client_info": {
+          "package_name": "com.fuad.post8_230018015"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8Wa8oG_mhhOC6HJj5N3R8XDuq-RRDNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
